@@ -36,7 +36,7 @@ All crafted using CSS properties like:
 
 You can view the live version here:
 > 💻 **Best viewed on a laptop for the full experience!**
-> 🌐 [Live Demo](#)
+> 🌐 [Live Demo](#https://css-art-mu.vercel.app)
 
 ## 💡 Inspiration
 
